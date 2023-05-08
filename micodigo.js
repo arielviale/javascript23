@@ -1,3 +1,4 @@
-var minumero = 2;
-var tunumero = minumero * 25 + 3; //agregue el operador suma y multiplicacion.
-alert('Mi numero favorito es: ' +  tunumero);
+var minumero = 11 % 3;
+//minumero += 5; //agregue el operador suma y multiplicacion.
+var miarray = ["rojo", "amarillo", "azul", "blanco"];
+alert(miarray[1]);
